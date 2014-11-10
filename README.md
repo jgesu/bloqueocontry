@@ -1,0 +1,4 @@
+bloqueocontry
+=============
+
+Bloquear Pais PHP
